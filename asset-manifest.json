@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/browser-magic/static/css/main.f9031d64.chunk.css",
+    "main.js": "/browser-magic/static/js/main.9fed3439.chunk.js",
+    "main.js.map": "/browser-magic/static/js/main.9fed3439.chunk.js.map",
+    "runtime-main.js": "/browser-magic/static/js/runtime-main.b65ce421.js",
+    "runtime-main.js.map": "/browser-magic/static/js/runtime-main.b65ce421.js.map",
+    "static/js/2.c64e1fad.chunk.js": "/browser-magic/static/js/2.c64e1fad.chunk.js",
+    "static/js/2.c64e1fad.chunk.js.map": "/browser-magic/static/js/2.c64e1fad.chunk.js.map",
+    "index.html": "/browser-magic/index.html",
+    "precache-manifest.f30aebcbcc3e5335d2f5305d6d6fcff2.js": "/browser-magic/precache-manifest.f30aebcbcc3e5335d2f5305d6d6fcff2.js",
+    "service-worker.js": "/browser-magic/service-worker.js",
+    "static/css/main.f9031d64.chunk.css.map": "/browser-magic/static/css/main.f9031d64.chunk.css.map",
+    "static/js/2.c64e1fad.chunk.js.LICENSE.txt": "/browser-magic/static/js/2.c64e1fad.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b65ce421.js",
+    "static/js/2.c64e1fad.chunk.js",
+    "static/css/main.f9031d64.chunk.css",
+    "static/js/main.9fed3439.chunk.js"
+  ]
+}
