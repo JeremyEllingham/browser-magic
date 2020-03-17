@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css'
-import BoxTopLeft from './components/BoxLeftTop'
+import BoxTopLeft from './components/BoxLeftTop/index'
 
 function App() {
   return (
